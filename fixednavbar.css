@@ -1,0 +1,43 @@
+.fixedNavBar {
+  background-color: blue;
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+.section1 {
+  background-color: pink;
+  height: 300px;
+  width: 100%;
+  text-align: center;
+  padding: 70px 0;
+  line-height: 300px;
+}
+.section2 {
+  background-color: purple;
+  height: 300px;
+  width: 100%;
+  text-align: center;
+  padding: 70px 0;
+  line-height: 300px;
+  
+}
+.section3 {
+  background-color: orange;
+  height: 300px;
+  width: 100%;
+  text-align: center;
+  padding: 70px 0;
+  line-height: 300px;
+}
+.section4 {
+  background-color: green;
+  height: 300px;
+  width: 100%;
+  text-align: center;
+  padding: 70px 0;
+  line-height: 300px;
+}
